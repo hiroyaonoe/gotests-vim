@@ -1,4 +1,5 @@
 # gotests-vim
+Forked because original development has been halted.
 
 Vim plugin for [gotests](https://github.com/cweill/gotests), that allows
 you to generate table driven tests easily.
